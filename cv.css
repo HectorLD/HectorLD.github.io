@@ -77,8 +77,8 @@ body {
 #midcontent img {
   margin: 0px;
   padding: 0px;
-  height: 510px;
-  width: 1366px;
+  height: 100%;
+  width: 100%;
   display: inline-block;
 }
 
